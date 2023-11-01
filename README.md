@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **The most popular programming language in the world is JavaScript.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
